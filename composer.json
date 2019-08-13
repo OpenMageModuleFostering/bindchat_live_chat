@@ -1,13 +1,12 @@
 {
     "name": "OpenMageModuleFostering/BindChat_Live_Chat",
     "type": "magento-module",
-    "license": "OSL-v3.0",
+    "license": "OSL",
     "homepage": "",
-    "description": "Visitors can chat with operator directly by clicking on the BIndChat Bar.
-必聊网（www.bindchat.com）在线客服插件。",
+    "description": "Visitors can chat with you directly by clicking on the BindChat Bar.",
     "authors": [
     {
-        "name": "bindchat",
+        "name": "BindChat inc.",
         "email": "bindchatinc@gmail.com"
     }
 ],
