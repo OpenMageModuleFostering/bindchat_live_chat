@@ -1,7 +1,7 @@
 {
-    "name": "OpenMageModuleFostering\/BindChat_Live_Chat",
+    "name": "openmage-module-fostering\/bindchat_live_chat",
     "type": "magento-module",
-    "license": "OSL",
+    "license": "OSL-3.0",
     "homepage": "",
     "description": "Visitors can chat with you directly by clicking on the BindChat Bar.",
     "authors": [
